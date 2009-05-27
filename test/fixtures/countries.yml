@@ -1,0 +1,13 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+germany:
+  code: DE
+  name: Germany
+
+england:
+  code: EN
+  name: England
+  
+japan:
+  code: JP
+  name: Japan

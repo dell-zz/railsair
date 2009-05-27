@@ -1,0 +1,124 @@
+  [4;36;1mCountry Create (2.0ms)[0m   [0;1mINSERT INTO "countries" ("name", "code") VALUES('Germany', 'DE')[0m
+  [4;36;1mCountry Create (2.0ms)[0m   [0;1mINSERT INTO "countries" ("name", "code") VALUES('Germany', 'DE')[0m
+  [4;35;1mSQL (1.0ms)[0m   [0mSELECT count(*) AS count_all FROM "countries" [0m
+  [4;36;1mCountry Create (1.0ms)[0m   [0;1mINSERT INTO "countries" ("name", "code") VALUES('Germany', 'DE')[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mSELECT count(*) AS count_all FROM "countries" [0m
+  [4;36;1mCountry Create (2.0ms)[0m   [0;1mINSERT INTO "countries" ("name", "code") VALUES('Germany', 'DE')[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mSELECT count(*) AS count_all FROM "countries" [0m
+  [4;36;1mSQL (1.0ms)[0m   [0;1mSELECT count(*) AS count_all FROM "countries" [0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mSELECT count(*) AS count_all FROM "countries" [0m
+  [4;36;1mCountry Create (1.0ms)[0m   [0;1mINSERT INTO "countries" ("name", "code") VALUES('Germany', 'DE')[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mSELECT count(*) AS count_all FROM "countries" [0m
+  [4;36;1mSQL (1.0ms)[0m   [0;1mSELECT count(*) AS count_all FROM "countries" [0m
+  [4;36;1mSQL (2.0ms)[0m   [0;1mSELECT count(*) AS count_all FROM "countries" [0m
+  [4;35;1mCountry Load (1.0ms)[0m   [0mSELECT * FROM "countries" LIMIT 1[0m
+  [4;36;1mCountry Destroy (5.0ms)[0m   [0;1mDELETE FROM "countries" WHERE "id" = 130010622[0m
+  [4;35;1mSQL (3.0ms)[0m   [0mSELECT count(*) AS count_all FROM "countries" [0m
+  [4;36;1mSQL (3.0ms)[0m   [0;1mSELECT count(*) AS count_all FROM "countries" [0m
+  [4;36;1mSQL (1.0ms)[0m   [0;1mSELECT count(*) AS count_all FROM "countries" [0m
+  [4;35;1mCountry Load (1.0ms)[0m   [0mSELECT * FROM "countries" LIMIT 1[0m
+  [4;36;1mCountry Destroy (2.0ms)[0m   [0;1mDELETE FROM "countries" WHERE "id" = 130010622[0m
+  [4;35;1mSQL (1.0ms)[0m   [0mSELECT count(*) AS count_all FROM "countries" [0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mSELECT count(*) AS count_all FROM "countries" [0m
+  [4;35;1mCountry Load (0.0ms)[0m   [0mSELECT * FROM "countries" ORDER BY countries.id DESC LIMIT 1[0m
+  [4;36;1mCountry Destroy (1.0ms)[0m   [0;1mDELETE FROM "countries" WHERE "id" = 747083907[0m
+  [4;35;1mSQL (2.0ms)[0m   [0mSELECT count(*) AS count_all FROM "countries" [0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mSELECT count(*) AS count_all FROM "countries" [0m
+  [4;35;1mCountry Load (0.0ms)[0m   [0mSELECT * FROM "countries" LIMIT 1[0m
+  [4;36;1mCountry Destroy (1.0ms)[0m   [0;1mDELETE FROM "countries" WHERE "id" = 130010622[0m
+  [4;35;1mSQL (1.0ms)[0m   [0mSELECT count(*) AS count_all FROM "countries" [0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mSELECT count(*) AS count_all FROM "countries" [0m
+  [4;35;1mCountry Load (0.0ms)[0m   [0mSELECT * FROM "countries" [0m
+  [4;36;1mCountry Destroy (1.0ms)[0m   [0;1mDELETE FROM "countries" WHERE "id" = 720411370[0m
+  [4;35;1mCountry Destroy (2.0ms)[0m   [0mDELETE FROM "countries" WHERE "id" = 747083907[0m
+  [4;36;1mSQL (1.0ms)[0m   [0;1mSELECT count(*) AS count_all FROM "countries" [0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mSELECT count(*) AS count_all FROM "countries" [0m
+  [4;35;1mCountry Load (1.0ms)[0m   [0mSELECT * FROM "countries" LIMIT 1[0m
+  [4;36;1mCountry Destroy (2.0ms)[0m   [0;1mDELETE FROM "countries" WHERE "id" = 130010622[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mSELECT count(*) AS count_all FROM "countries" [0m
+  [4;36;1mSQL (1.0ms)[0m   [0;1mSELECT count(*) AS count_all FROM "countries" [0m
+  [4;35;1mCountry Load (1.0ms)[0m   [0mSELECT * FROM "countries" [0m
+  [4;36;1mCountry Destroy (3.0ms)[0m   [0;1mDELETE FROM "countries" WHERE "id" = 720411370[0m
+  [4;35;1mCountry Destroy (2.0ms)[0m   [0mDELETE FROM "countries" WHERE "id" = 747083907[0m
+  [4;36;1mSQL (1.0ms)[0m   [0;1mSELECT count(*) AS count_all FROM "countries" [0m
+  [4;35;1mSQL (0.0ms)[0m   [0mSELECT count(*) AS count_all FROM "countries" [0m
+  [4;36;1mSQL (1.0ms)[0m   [0;1mSELECT count(*) AS count_all FROM "countries" [0m
+  [4;35;1mCountry Load (0.0ms)[0m   [0mSELECT * FROM "countries" LIMIT 1[0m
+  [4;36;1mCountry Destroy (1.0ms)[0m   [0;1mDELETE FROM "countries" WHERE "id" = 130010622[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mSELECT count(*) AS count_all FROM "countries" [0m
+  [4;36;1mSQL (1.0ms)[0m   [0;1mSELECT count(*) AS count_all FROM "countries" [0m
+  [4;35;1mCountry Load (1.0ms)[0m   [0mSELECT * FROM "countries" [0m
+  [4;36;1mCountry Destroy (1.0ms)[0m   [0;1mDELETE FROM "countries" WHERE "id" = 720411370[0m
+  [4;35;1mCountry Destroy (1.0ms)[0m   [0mDELETE FROM "countries" WHERE "id" = 747083907[0m
+  [4;36;1mSQL (1.0ms)[0m   [0;1mSELECT count(*) AS count_all FROM "countries" [0m
+  [4;35;1mSQL (1.0ms)[0m   [0mSELECT count(*) AS count_all FROM "countries" [0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mSELECT count(*) AS count_all FROM "countries" [0m
+  [4;35;1mCountry Load (1.0ms)[0m   [0mSELECT * FROM "countries" LIMIT 1[0m
+  [4;36;1mCountry Destroy (1.0ms)[0m   [0;1mDELETE FROM "countries" WHERE "id" = 130010622[0m
+  [4;35;1mSQL (1.0ms)[0m   [0mSELECT count(*) AS count_all FROM "countries" [0m
+  [4;36;1mSQL (1.0ms)[0m   [0;1mSELECT count(*) AS count_all FROM "countries" [0m
+  [4;35;1mCountry Load (1.0ms)[0m   [0mSELECT * FROM "countries" [0m
+  [4;36;1mCountry Destroy (1.0ms)[0m   [0;1mDELETE FROM "countries" WHERE "id" = 720411370[0m
+  [4;35;1mCountry Destroy (1.0ms)[0m   [0mDELETE FROM "countries" WHERE "id" = 747083907[0m
+  [4;36;1mSQL (1.0ms)[0m   [0;1mSELECT count(*) AS count_all FROM "countries" [0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mSELECT count(*) AS count_all FROM "countries" [0m
+  [4;35;1mCountry Load (1.0ms)[0m   [0mSELECT * FROM "countries" LIMIT 1[0m
+  [4;36;1mCountry Destroy (2.0ms)[0m   [0;1mDELETE FROM "countries" WHERE "id" = 130010622[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mSELECT count(*) AS count_all FROM "countries" [0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mSELECT count(*) AS count_all FROM "countries" [0m
+  [4;35;1mCountry Load (1.0ms)[0m   [0mSELECT * FROM "countries" [0m
+  [4;36;1mCountry Destroy (2.0ms)[0m   [0;1mDELETE FROM "countries" WHERE "id" = 720411370[0m
+  [4;35;1mCountry Destroy (2.0ms)[0m   [0mDELETE FROM "countries" WHERE "id" = 747083907[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mSELECT count(*) AS count_all FROM "countries" [0m
+  [4;35;1mCountry Create (3.0ms)[0m   [0mINSERT INTO "countries" ("name", "code") VALUES('Germany', NULL)[0m
+  [4;36;1mSQL (1.0ms)[0m   [0;1mSELECT count(*) AS count_all FROM "countries" [0m
+  [4;35;1mCountry Load (1.0ms)[0m   [0mSELECT * FROM "countries" LIMIT 1[0m
+  [4;36;1mCountry Destroy (1.0ms)[0m   [0;1mDELETE FROM "countries" WHERE "id" = 130010622[0m
+  [4;35;1mSQL (1.0ms)[0m   [0mSELECT count(*) AS count_all FROM "countries" [0m
+  [4;36;1mSQL (1.0ms)[0m   [0;1mSELECT count(*) AS count_all FROM "countries" [0m
+  [4;35;1mCountry Load (1.0ms)[0m   [0mSELECT * FROM "countries" [0m
+  [4;36;1mCountry Destroy (1.0ms)[0m   [0;1mDELETE FROM "countries" WHERE "id" = 720411370[0m
+  [4;35;1mCountry Destroy (1.0ms)[0m   [0mDELETE FROM "countries" WHERE "id" = 747083907[0m
+  [4;36;1mSQL (1.0ms)[0m   [0;1mSELECT count(*) AS count_all FROM "countries" [0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mSELECT count(*) AS count_all FROM "countries" [0m
+  [4;35;1mCountry Load (0.0ms)[0m   [0mSELECT * FROM "countries" LIMIT 1[0m
+  [4;36;1mCountry Destroy (3.0ms)[0m   [0;1mDELETE FROM "countries" WHERE "id" = 130010622[0m
+  [4;35;1mSQL (1.0ms)[0m   [0mSELECT count(*) AS count_all FROM "countries" [0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mSELECT count(*) AS count_all FROM "countries" [0m
+  [4;35;1mCountry Load (1.0ms)[0m   [0mSELECT * FROM "countries" [0m
+  [4;36;1mCountry Destroy (1.0ms)[0m   [0;1mDELETE FROM "countries" WHERE "id" = 720411370[0m
+  [4;35;1mCountry Destroy (2.0ms)[0m   [0mDELETE FROM "countries" WHERE "id" = 747083907[0m
+  [4;36;1mSQL (1.0ms)[0m   [0;1mSELECT count(*) AS count_all FROM "countries" [0m
+  [4;35;1mCountry Create (2.0ms)[0m   [0mINSERT INTO "countries" ("name", "code") VALUES('Germany', 'D')[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mSELECT count(*) AS count_all FROM "countries" [0m
+  [4;35;1mCountry Load (1.0ms)[0m   [0mSELECT * FROM "countries" LIMIT 1[0m
+  [4;36;1mCountry Destroy (2.0ms)[0m   [0;1mDELETE FROM "countries" WHERE "id" = 130010622[0m
+  [4;35;1mSQL (1.0ms)[0m   [0mSELECT count(*) AS count_all FROM "countries" [0m
+  [4;36;1mSQL (1.0ms)[0m   [0;1mSELECT count(*) AS count_all FROM "countries" [0m
+  [4;35;1mCountry Load (1.0ms)[0m   [0mSELECT * FROM "countries" [0m
+  [4;36;1mCountry Destroy (1.0ms)[0m   [0;1mDELETE FROM "countries" WHERE "id" = 720411370[0m
+  [4;35;1mCountry Destroy (3.0ms)[0m   [0mDELETE FROM "countries" WHERE "id" = 747083907[0m
+  [4;36;1mSQL (1.0ms)[0m   [0;1mSELECT count(*) AS count_all FROM "countries" [0m
+  [4;36;1mSQL (1.0ms)[0m   [0;1mSELECT count(*) AS count_all FROM "countries" [0m
+  [4;35;1mCountry Load (1.0ms)[0m   [0mSELECT * FROM "countries" LIMIT 1[0m
+  [4;36;1mCountry Destroy (1.0ms)[0m   [0;1mDELETE FROM "countries" WHERE "id" = 130010622[0m
+  [4;35;1mSQL (1.0ms)[0m   [0mSELECT count(*) AS count_all FROM "countries" [0m
+  [4;36;1mSQL (1.0ms)[0m   [0;1mSELECT count(*) AS count_all FROM "countries" [0m
+  [4;35;1mCountry Load (1.0ms)[0m   [0mSELECT * FROM "countries" [0m
+  [4;36;1mCountry Destroy (1.0ms)[0m   [0;1mDELETE FROM "countries" WHERE "id" = 720411370[0m
+  [4;35;1mCountry Destroy (2.0ms)[0m   [0mDELETE FROM "countries" WHERE "id" = 747083907[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mSELECT count(*) AS count_all FROM "countries" [0m
+  [4;36;1mCountry Create (7.0ms)[0m   [0;1mINSERT INTO "countries" ("name", "code") VALUES('Deutschland', 'DE')[0m
+  [4;36;1mCountry Exists (1.0ms)[0m   [0;1mSELECT "countries".id FROM "countries" WHERE ("countries"."code" = 'DE') LIMIT 1[0m
+  [4;35;1mCountry Create (1.0ms)[0m   [0mINSERT INTO "countries" ("name", "code") VALUES('Deutschland', 'DE')[0m
+  [4;36;1mCountry Exists (1.0ms)[0m   [0;1mSELECT "countries".id FROM "countries" WHERE ("countries"."code" = 'DE') LIMIT 1[0m
+  [4;35;1mCountry Exists (0.0ms)[0m   [0mSELECT "countries".id FROM "countries" WHERE ("countries"."code" = 'D') LIMIT 1[0m
+  [4;36;1mCountry Exists (1.0ms)[0m   [0;1mSELECT "countries".id FROM "countries" WHERE ("countries"."code" = 'DE') LIMIT 1[0m
+  [4;35;1mCountry Exists (1.0ms)[0m   [0mSELECT "countries".id FROM "countries" WHERE ("countries"."code" = 'DE') LIMIT 1[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mSELECT count(*) AS count_all FROM "countries" [0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mSELECT count(*) AS count_all FROM "countries" [0m
+  [4;36;1mSQL (1.0ms)[0m   [0;1mSELECT count(*) AS count_all FROM "countries" [0m
+  [4;36;1mSQL (1.0ms)[0m   [0;1mSELECT count(*) AS count_all FROM "countries" [0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mSELECT count(*) AS count_all FROM "countries" [0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mSELECT count(*) AS count_all FROM "countries" [0m
+  [4;36;1mSQL (1.0ms)[0m   [0;1mSELECT count(*) AS count_all FROM "countries" [0m
